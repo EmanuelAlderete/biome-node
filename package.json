@@ -1,15 +1,21 @@
 {
-  "name": "@emanuelalderete/biome-node",
-  "version": "1.0.0",
-  "main": "biome.json",
-  "exports": {
-    ".": "./biome.json"
-  },
-  "files": [
-    "biome.json"
-  ],
-  "keywords": ["config", "biome", "formatter", "linter"],
-  "author": "Emanuel Alderete",
-  "license": "MIT",
-  "description": "A shared Biome configuration with linting and formatting rules tailored for consistency and simplicity across JavaScript and TypeScript projects. Designed to be easily extendable and reusable across multiple repositories."
+	"name": "@emanuelalderete/biome-node",
+	"version": "1.0.0",
+	"main": "biome.json",
+	"exports": {
+		".": "./biome.json"
+	},
+	"files": [
+		"biome.json"
+	],
+	"keywords": [
+		"config",
+		"biome",
+		"formatter",
+		"linter"
+	],
+	"author": "Emanuel Alderete",
+	"license": "MIT",
+	"homepage": "https://github.com/EmanuelAlderete/biome-node",
+	"description": "A shared Biome configuration with linting and formatting rules tailored for consistency and simplicity across JavaScript and TypeScript projects. Designed to be easily extendable and reusable across multiple repositories."
 }
