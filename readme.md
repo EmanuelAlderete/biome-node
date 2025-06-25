@@ -30,7 +30,7 @@ In your project's root, create a `biome.json` file:
 
 ```json
 {
-  "extends": "@emanuelalderete/biome-node"
+	"extends": ["@emanuelalderete/biome-node"]
 }
 ```
 
